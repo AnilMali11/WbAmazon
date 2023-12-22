@@ -18,4 +18,6 @@ public class WbAmazonPr {
 		Thread.sleep(5000);
 	}
 
+System.out.println("Github")
+
 }
